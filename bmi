@@ -1,0 +1,8 @@
+// Write code below 💖
+
+let mass = 85;
+let height = 5.10;
+
+let bmi = mass/(height ** 2);
+
+console.log(bmi);
